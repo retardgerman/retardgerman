@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build cool
 - 💻 Learning to code and build cool projects
 - 🌱 Always exploring new technologies and tools
 - 🔧 Building projects and contributing to open source
-- 📫 How to reach me: 78982850+retardgerman@users.noreply.github.com
 
 ## 🛠️ Technologies & Tools
 
