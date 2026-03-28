@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a developer from Germany building bots, web ap
 | [streamyfin.app](https://github.com/streamyfin/streamyfin.app) | Official website for Streamyfin |
 | [streamyfin-discord-bot](https://github.com/streamyfin/streamyfin-discord-bot) | Discord bot for the Streamyfin community |
 | [DiscordCommunity-Bot](https://github.com/JellyfinCommunity/DiscordCommunity-Bot) | Discord bot for the Jellyfin Community |
-| [Anchorr](https://github.com/openVESSL/Anchorr) | Discord bot for requesting movies/TV and receiving notifications from your media server |
+| [Anchorr](https://github.com/openVESSL/Anchorr) | Discord bot for requesting movies/TV and receiving notifications from your media server *(Maintainer)* |
 
 ## GitHub Stats
 
@@ -41,6 +41,10 @@ Welcome to my GitHub profile! I'm a developer from Germany building bots, web ap
 ## Activity Graph
 
 ![retardgerman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retardgerman&theme=react-dark)
+
+## Support
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/retardgerman)
 
 ## Let's Connect!
 
