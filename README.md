@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a developer from Germany building bots, web ap
 |---|---|
 | [streamyfin](https://github.com/streamyfin/streamyfin) | Modern Jellyfin client for iOS & Android — 4.6k+ Stars |
 | [streamyfin-discord-bot](https://github.com/streamyfin/streamyfin-discord-bot) | Discord bot for the Streamyfin community |
-| [Anchorr](https://github.com/nairdahh/Anchorr-webpage) | Discord bot for Jellyfin media requests |
+| [Anchorr](https://github.com/openVESSL/Anchorr) | Discord bot for requesting movies/TV and receiving notifications from your media server |
 | [next-dlp](https://github.com/retardgerman/next-dlp) | Modern web frontend for yt-dlp with Docker support |
 
 ## GitHub Stats
