@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I'm a developer from Germany building bots, web ap
 
 ## About Me
 
-- Building Discord & Telegram bots
 - Contributing to [Streamyfin](https://github.com/streamyfin) — a modern Jellyfin client ecosystem
-- Creating web projects and automation scripts
+- Building Discord bots and media tools
 - Always tinkering with new ideas
 
 ## Technologies & Tools
@@ -24,12 +23,11 @@ Welcome to my GitHub profile! I'm a developer from Germany building bots, web ap
 
 | Project | Description |
 |---|---|
-| [tagesguck](https://github.com/retardgerman/tagesguck) | Telegram bot delivering German news from Tagesschau with breaking news alerts |
+| [streamyfin](https://github.com/streamyfin/streamyfin) | Modern Jellyfin client for iOS & Android — 4.6k+ Stars |
+| [streamyfin-discord-bot](https://github.com/streamyfin/streamyfin-discord-bot) | Discord bot for the Streamyfin community |
+| [streamyfin-ai-bot](https://github.com/streamyfin/streamyfin-ai-bot) | AI-powered bot for Streamyfin |
+| [Anchorr](https://github.com/nairdahh/Anchorr-webpage) | Discord bot for Jellyfin media requests |
 | [next-dlp](https://github.com/retardgerman/next-dlp) | Modern web frontend for yt-dlp with Docker support |
-| [JellyRandomPicker](https://github.com/retardgerman/JellyRandomPicker) | Random media picker for Jellyfin |
-| [streamyfin_release_bot](https://github.com/retardgerman/streamyfin_release_bot) | Release bot for the Streamyfin project |
-| [german-rls-calendar](https://github.com/retardgerman/german-rls-calendar) | German release calendar |
-| [mainpost-epaper-downloader](https://github.com/retardgerman/mainpost-epaper-downloader) | Downloader for Mainpost ePaper |
 
 ## GitHub Stats
 
